@@ -26,4 +26,4 @@ RewriteRule ^ index.php [L]
 
 ### Gallery
 
-![](https://img.cleberg.net/michelangelo/gallery.png)
+![](https://img.cmc.pub/michelangelo/gallery.png)
